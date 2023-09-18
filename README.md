@@ -25,5 +25,7 @@ Researchers are increasingly using web applications to promote their work in an 
 - By adapting existing workflows, researchers working with RSEs can benefit from the familiarity of the codebase and the development environment. This helps them maintain the application beyond the period of collaboration.  
 
 ### Acknowledgments
-![alt text](http://url/to/img.png)
+![Better Scientific Software]((https://bssw.io/assets/bssw-78ff90ae191cabb76ede7766c2b78362ed487d78f12356638c14d6fe939f3d86.png))
+I'd like to thank Nicole Brewer, David Costello and the rest of the Digital Innovation Group for their continued support of my outreach work in this area.
+
 This work was supported by the Better Scientific Software Fellowship Program, funded by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy (DOE) Office of Science and the National Nuclear Security Administration; and by the National Science Foundation (NSF) under Grant No. 2154495. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the DOE or NSF.
